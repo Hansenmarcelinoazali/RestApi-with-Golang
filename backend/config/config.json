@@ -1,0 +1,8 @@
+{
+    "DB_USERNAME": "hansen",
+    "DB_PASSWORD": "Hm24011998",
+    "DB_PORT": "3306",
+    "DB_HOST": "localhost",
+    "DB_NAME": "noteapp"
+
+}
